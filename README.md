@@ -22,6 +22,7 @@ The Meta Tags which you can extract using this scraper are:
 7) Anchor Text
 
 8) Internal Links  
+9) 
 
 Please try and let me know if you liked it..!!!!
 
