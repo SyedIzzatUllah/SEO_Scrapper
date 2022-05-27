@@ -2,7 +2,7 @@ from selenium import webdriver
 from bs4 import BeautifulSoup as bs
 import pandas as pd
 import re
-
+    
 class scraper():
 
     def __init__(self, url):
