@@ -8,7 +8,7 @@ class scraper():
     def __init__(self, url):
         self.url = url
 
-    def run_scraper(self):
+    def run_scraper(self):  
         
         options = webdriver.ChromeOptions() # Configuring to run the chrome into the headless mode
         options.headless = True   
