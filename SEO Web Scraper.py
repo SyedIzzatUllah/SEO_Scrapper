@@ -6,7 +6,7 @@ import re
 class scraper():   
 
     def __init__(self, url):
-        self.url = url
+        self.url = url 
 
     def run_scraper(self):   
         
@@ -22,7 +22,7 @@ class scraper():
 
         # extracting the title of the page
         if head.find("title") == None:
-            self.page_title = "Title Not Found!"
+            self.page_title = "Oh Sorry! Title Not Found!"
         else:
             self.page_title = head.find("title").get_text()
  
