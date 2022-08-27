@@ -107,7 +107,7 @@ class scraper():
         return self.internal_links_df
 
     def check_h2(self):
-        print(self.h2)
+        print(self.h2) 
 
 
 scrape = scraper("https://www.daraz.pk/products/250-i2715040-s11339420.html?spm=a2a0e.searchlistcategory.list.1.64b968e9qTG91m&search=1")
