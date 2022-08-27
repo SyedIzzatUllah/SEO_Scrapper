@@ -1,4 +1,4 @@
-from selenium import webdriver
+nofrom selenium import webdriver
 from bs4 import BeautifulSoup as bs
 import pandas as pd
 import re   
@@ -112,7 +112,7 @@ class scraper():
 
 scrape = scraper("https://www.daraz.pk/products/250-i2715040-s11339420.html?spm=a2a0e.searchlistcategory.list.1.64b968e9qTG91m&search=1")
 scrape.run_scraper() # Run the Scraper
-scrape.check_title() # Check the title of the Page
+scrape.check_title() #Check the title of the Page
 scrape.check_description() # Check the Description of the Page
 scrape.check_h1() # Check the H1 of the Page
 scrape.check_h2() # Check the H2's of the Page
