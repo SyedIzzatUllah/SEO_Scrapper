@@ -11,7 +11,7 @@ The Meta Tags which you can extract using this scraper are:
 
 2) H1 (Length of  H1)     
 
-3) H2 (Length of H2)
+3) H2 (Length of  H2)
 
 4) Meta Description (Length of Meta Description)
 
