@@ -20,7 +20,7 @@ class scraper():
         # reading the head of the webpage
         head = soup.find('head')
 
-        # extracting the title of the page
+        # extracting  the title of the page
         if head.find("title") == None:
             self.page_title = "Oh Sorry! Title Not Found!"
         else:
