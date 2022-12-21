@@ -115,7 +115,7 @@ scrape.run_scraper() # Run the Scraper
 scrape.check_title() #Check the title of the Page
 scrape.check_description() # Check the Description of the Page
 scrape.check_h1() # Check the H1 of the Page
-scrape.check_h2() # Check the H2's of the Page
+scrape.check_h2() #  Check the H2's of the Page
 scrape.check_keywords() # Check for the meta keywords of the Page
 scrape.check_alt_tags() # Check for the alt image tags
 scrape.check_int_links() # Check for the internal links along with the anchors 
