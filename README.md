@@ -1,4 +1,4 @@
-# SEO_Scrapper 
+# SEO_Scrapper  
 
 Beautiful Soup is the powerful library when it comes web scraping but it often struggle for the Javascript Enabled Websites. To tackle this issue, I am using the Selenium along with BeautifulSoup to parse the rendered source code of the page into python variable and then using to scrap it using BS4.
 
