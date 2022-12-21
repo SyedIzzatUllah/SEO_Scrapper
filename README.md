@@ -7,7 +7,7 @@ Beautiful Soup is the powerful library when it comes web scraping but it often s
 
 The Meta Tags which you can extract using this scraper are: 
 
-1) Page Title (Length of Title)
+1) Page Title (Length of Title) 
 
 2) H1 (Length of  H1)     
 
