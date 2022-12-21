@@ -28,6 +28,6 @@ Please try and let me know if you liked it..!!!!
 
 In future, I am looking to add some features which I will share it soon!
 
-Enjoy, also please scrap the website on your own risk..!!!!!
+Enjoy, also please scrap the website on your own risk..!!!!! 
 
 **Note:** Please change the path of the Chrome Driver which I have provied in my Github repository with name "chromedriver.exe". 
