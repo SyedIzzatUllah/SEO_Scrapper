@@ -9,7 +9,7 @@ The Meta Tags which you can extract using this scraper are:
 
 1) Page Title (Length of Title) 
 
-2) H1 (Length of H1)     
+2) H1 (Length of H1)   
  
 3) H2 (Length of H2) 
 
