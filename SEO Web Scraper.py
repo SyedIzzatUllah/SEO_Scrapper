@@ -10,7 +10,7 @@ class scraper():
 
     def run_scraper(self):   
         
-        options = webdriver.ChromeOptions() # Configuring to run the chrome into the headless mode
+        options = webdriver.ChromeOptions() #Configuring to run the chrome into the headless mode
         options.headless = True   
         driver = webdriver.Chrome(executable_path="C:\Program Files (x86)\Google\Chrome\Application\100.0.4896.88", options=options) # Add the chrome driver path here
         driver.get(self.url)
