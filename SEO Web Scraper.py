@@ -76,7 +76,7 @@ class scraper():
             else:
                 pass
 
-        # extracting the anchor  text and links from the page
+        #extracting the anchor  text and links from the page
         internal_links = {}
 
         for link in soup.select("p, a"):
