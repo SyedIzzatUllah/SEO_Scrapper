@@ -43,7 +43,7 @@ class scraper():
             meta_key = head.find('meta', attrs = {"name": "keywords"})
             self.meta_keywords = meta_key["content"]
 
-        # extracting the page h1
+        #extracting the page h1
         if soup.find("h1") == None:
             self.h1 = "H1 Not Found...!!!!"
         else:
