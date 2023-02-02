@@ -35,7 +35,7 @@ class scraper():
             self.page_description = page_description["content"]
 
 
-        # extracting the meta keywords of the page
+        # extracting the meta keywords (KWs) of the page
         if head.find('meta', attrs = {"name": "keywords"}) == None:
             meta_key = "Keywords are Not Found..!!"
             self.meta_keywords = meta_key
