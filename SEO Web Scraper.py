@@ -26,7 +26,7 @@ class scraper():
         else:
             self.page_title = head.find("title").get_text()
  
-        #extracting the  page description
+        #extracting the  page description for data 
         if head.find(attrs = {"name": 'description'}) == None:
             page_description = "Try again! Description Not Found!"
             self.page_description = page_description
