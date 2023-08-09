@@ -3,9 +3,10 @@ from bs4 import BeautifulSoup as bs
 import pandas as pd
 import re
     
-class scraper(): 
+class scraper():
 
     def __init__(self, url):
+       
         self.url = url
 
     def run_scraper(self): 
